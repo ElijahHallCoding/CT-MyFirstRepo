@@ -1,0 +1,3 @@
+My favorite coding temple moment was actually yesterday as I spent around 3 hours troubleshooting.
+Issue: I was having trouble transfering my changes to my GitHub repository. 
+I figured out what was causing the issue and completed my troubleshooting.
